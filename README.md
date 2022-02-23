@@ -30,7 +30,7 @@ These project ideas can be used for
 		b. Solution:  Farmers feed their produce, location, selling price and selling time.  Buyers place their orders directly with the farmer and reserves the collection time slot, quantity and amount.  Buyer goes and picks up  the produce.
 	2. Jobs broadcaster via SMS in regional language
 		a. Problem statement:  Short term jobs (E.g., Domestic workers, plumbers, electricians, iron man) are in demand always.  But the need does not reach job seekers.
-    		b. Solution:  Using the app, collect ad hoc job requirement details from job providers. Jobs information is to be sent as regional language SMS to job seekers. 
+		b. Solution:  Using the app, collect ad hoc job requirement details from job providers. Jobs information is to be sent as regional language SMS to job seekers. 
 	3. Avoid food waste in weddings
 		a. Problem statement: Food goes waste in many events such as marriages as indian cultural system does not follow RSVP.
 		b. Solution 1: Provide an RSVP app where all the event attendees can mark their interest by sending SMS with just "Ok # of participants" against an event name.
@@ -65,7 +65,7 @@ These project ideas can be used for
 	1. Personal store of image, video management
 		a. Problem statement: images and videos get duplicated if stored in multiple folders and send via social media platforms and backed-up.  This bloats the storage.
 		b. Solution: Find duplicate copies and store the meta data for each copy, but keep only one image or video.  This will help to reduce the total storage needed.
-  2. To Do app, daily journal app, goal setting app
+	2. To Do app, daily journal app, goal setting app
 	
 ### Health
 	1. Wearables
