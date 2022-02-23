@@ -24,7 +24,7 @@ These project ideas can be used for
 ## Projects with business use
 
 	
-## Sociopreneur
+### Sociopreneur
 	1. Buyer/Seller marketplace app (Web and/or mobile) for small farmers
 		a. Problem statement: small farmers lose money to middle men as the demand from end consumers do not reach them directly.
 		b. Solution:  Farmers feed their produce, location, selling price and selling time.  Buyers place their orders directly with the farmer and reserves the collection time slot, quantity and amount.  Buyer goes and picks up  the produce.
@@ -47,17 +47,17 @@ These project ideas can be used for
 		b. Solution: upload images/living needs (sos calls) and make the pre-registered wardens initiate the help.
 	 
  
-## Entertainment
+### Entertainment
 	1. Piracy weakener 
 		a. Problem statement: Movies get downloaded with copy right violations from unregistered sites.
 		b. Solution: aggregate the streaming and other movie theatres where the movie can be watched without piracy.  Provide rewarding system.
 
-## Directory Apps
+### Directory Apps
 	1. Directory of children extra-curricular activies based on region, categories.
 	2. Directory of entertainment & sports events (play, concerts, sports events) near me.
-  3. Directory of college education disciplines and institutions and the job scopes.  Similar to [Glassdoor](https://www.glassdoor.co.in/member/home/index.htm), consolidate input from alumni on what they are doing.  Students can make use of this for their career choices.
+  	3. Directory of college education disciplines and institutions and the job scopes.  Similar to [Glassdoor](https://www.glassdoor.co.in/member/home/index.htm), consolidate input from alumni on what they are doing.  Students can make use of this for their career choices.
 
-## BlockChain
+### BlockChain
 	1. Anonymous Voting
 		a. Problem statement: Currently either paper based or electronic voting machines are used.  As an evolution, voter's choice is stored in BlockChain for ease of counting and to avoid counterfeiting.
 		b. Solution: create a ledger to keep voting records region-wise without revealing any identity.
@@ -66,23 +66,23 @@ These project ideas can be used for
     a. Problem statement: Dogs have their right to live, however, they need to be vaccinated.  There is no way to know which dogs are vaccinated and which are not.
     b. Solution: Once a dog is vaccinated, give it a durable collor with a number.  Keep the details of the Dog's bio records in blockchain.
 
-## Business / Personal Productivity:
+### Business / Personal Productivity:
 	1. Personal store of image, video management
 		a. Problem statement: images and videos get duplicated if stored in multiple folders and send via social media platforms and backed-up.  This bloats the storage.
 		b. Solution: Find duplicate copies and store the meta data for each copy, but keep only one image or video.  This will help to reduce the total storage needed.
 	
   2. To Do app, daily journal app, goal setting app
 	
-## Health
+### Health
 	1. Wearables
 		a. Problem statement:  In general, data will be needed from healthy and sick people for research.   
 		b. Solution: Create a framework for human health moniotoring details without compromising privacy be collected and stored for research.  Wearables can send details to  this framework and data thus collected can be used for research.
   		
 	2. Mobile app for medicine box.  
 		a. Problem statement:  Old people do not take medicines on time. 
-Solution: The medicine box app is a virtual box with medicine names, dosage configured.   It gives alarm to user if medicine is not taken on time.  Once medicine is taken and user confirms that in the virtual box, notifications are to be sent to people taking care of the person.![image](https://user-images.githubusercontent.com/100285864/155315968-c8a892e1-60aa-4465-ae6b-9c323beca1d6.png)
+Solution: The medicine box app is a virtual box with medicine names, dosage configured.   It gives alarm to user if medicine is not taken on time.  Once medicine is taken and user confirms that in the virtual box, notifications are to be sent to people taking care of the sick person.
 
-  3. Diagnostics using images
-    a. Problem statement: Diagnosing using medical images takes expert's time and that is costly and patients have to wait long.
-    b. Solution: Keep a database of healthy and unhealthy images categorized.  Apply AI algorithm to learn from those images and map new patient's image to healthy or potentially-unhealthy category.
+  	3. Diagnostics using images
+	    a. Problem statement: Diagnosing using medical images takes expert's time and that is costly and patients have to wait long.
+	    b. Solution: Keep a database of healthy and unhealthy images categorized.  Apply AI algorithm to learn from those images and map new patient's image to healthy or potentially-unhealthy category.
 
