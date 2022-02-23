@@ -28,20 +28,16 @@ These project ideas can be used for
 	1. Buyer/Seller marketplace app (Web and/or mobile) for small farmers
 		a. Problem statement: small farmers lose money to middle men as the demand from end consumers do not reach them directly.
 		b. Solution:  Farmers feed their produce, location, selling price and selling time.  Buyers place their orders directly with the farmer and reserves the collection time slot, quantity and amount.  Buyer goes and picks up  the produce.
-		
 	2. Jobs broadcaster via SMS in regional language
 		a. Problem statement:  Short term jobs (E.g., Domestic workers, plumbers, electricians, iron man) are in demand always.  But the need does not reach job seekers.
-    b. Solution:  Using the app, collect ad hoc job requirement details from job providers. Jobs information is to be sent as regional language SMS to job seekers. 
-		
+    		b. Solution:  Using the app, collect ad hoc job requirement details from job providers. Jobs information is to be sent as regional language SMS to job seekers. 
 	3. Avoid food waste in weddings
 		a. Problem statement: Food goes waste in many events such as marriages as indian cultural system does not follow RSVP.
 		b. Solution 1: Provide an RSVP app where all the event attendees can mark their interest by sending SMS with just "Ok # of participants" against an event name.
-		c. Solution 2: Marriage event  planners can up front register their event with number of people who'd come.  They can roughly post the number of people actually came and the amount of food available for any one to  pick up.
-		
+		c. Solution 2: Marriage event  planners can up front register their event with number of people who'd come.  They can roughly post the number of people actually came and the amount of food available for any one to  pick up.	
 	4. Geo mapping with images for city cleaning
 		a. Problem statement: debris pile up in some places as civic bodies may ignore some areas.
 		b. Solution: upload images with date/time/location for civic bodies to clear
-		
 	5. Geo mapping with images for disaster (such as flood, lock down) help
 		a. Problem statement: vulnerable set of people such as the aged, disabled, sick are not able to meet the basic necessities during unusual testing times.
 		b. Solution: upload images/living needs (sos calls) and make the pre-registered wardens initiate the help.
@@ -61,28 +57,24 @@ These project ideas can be used for
 	1. Anonymous Voting
 		a. Problem statement: Currently either paper based or electronic voting machines are used.  As an evolution, voter's choice is stored in BlockChain for ease of counting and to avoid counterfeiting.
 		b. Solution: create a ledger to keep voting records region-wise without revealing any identity.
-    
-  2. Stray animals tracking
-    a. Problem statement: Dogs have their right to live, however, they need to be vaccinated.  There is no way to know which dogs are vaccinated and which are not.
-    b. Solution: Once a dog is vaccinated, give it a durable collor with a number.  Keep the details of the Dog's bio records in blockchain.
+	2. Stray animals tracking
+		a. Problem statement: Dogs have their right to live, however, they need to be vaccinated.  There is no way to know which dogs are vaccinated and which are not.
+		b. Solution: Once a dog is vaccinated, give it a durable collor with a number.  Keep the details of the Dog's bio records in blockchain.
 
 ### Business / Personal Productivity:
 	1. Personal store of image, video management
 		a. Problem statement: images and videos get duplicated if stored in multiple folders and send via social media platforms and backed-up.  This bloats the storage.
 		b. Solution: Find duplicate copies and store the meta data for each copy, but keep only one image or video.  This will help to reduce the total storage needed.
-	
   2. To Do app, daily journal app, goal setting app
 	
 ### Health
 	1. Wearables
 		a. Problem statement:  In general, data will be needed from healthy and sick people for research.   
 		b. Solution: Create a framework for human health moniotoring details without compromising privacy be collected and stored for research.  Wearables can send details to  this framework and data thus collected can be used for research.
-  		
 	2. Mobile app for medicine box.  
 		a. Problem statement:  Old people do not take medicines on time. 
-Solution: The medicine box app is a virtual box with medicine names, dosage configured.   It gives alarm to user if medicine is not taken on time.  Once medicine is taken and user confirms that in the virtual box, notifications are to be sent to people taking care of the sick person.
-
+		b. Solution: The medicine box app is a virtual box with medicine names, dosage configured.   It gives alarm to user if medicine is not taken on time.  Once medicine is taken and user confirms that in the virtual box, notifications are to be sent to people taking care of the sick person.
   	3. Diagnostics using images
-	    a. Problem statement: Diagnosing using medical images takes expert's time and that is costly and patients have to wait long.
-	    b. Solution: Keep a database of healthy and unhealthy images categorized.  Apply AI algorithm to learn from those images and map new patient's image to healthy or potentially-unhealthy category.
+		a. Problem statement: Diagnosing using medical images takes expert's time and that is costly and patients have to wait long.
+		b. Solution: Keep a database of healthy and unhealthy images categorized.  Apply AI algorithm to learn from those images and map new patient's image to healthy or potentially-unhealthy category.
 
