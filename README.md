@@ -4,12 +4,15 @@ Project ideas for learning app development, engineering projects and for busines
 These project ideas can be used for 
 	- creating Engineering final year projects 
 	- enriching one's coding skills 
-	- Delivering actual business use
+	- adding features and build a business out of it
 
 ## Projects for learning purpose
 ### Web App
 	1. CRUD app
+		a. Solution: Create/Read/Delete/Update some entity such as "Student" in a database.  Provide frontend features such as "Create New Student", "Update Student with new Address", etc. Choose a tech stack.  Popular tech stacks for web applications are LAMP (Linux, Apache, MySQL, PHP or Pearl or Python|), MERN /MEAN / MEVN (MongoDB, Express JS, ReactJS / AngularJS/ VueJS, NodeJS),  Python-Django,  PHP-Laravel, Ruby on Rails.  
+		b. What you learn: For any tech stack chosen, writing a CRUD app becomes framework for building other features.  CRUD app is a test to prove that one knows all the basic aspects of an application construction.
 	2. Webapp with payment integration using Stripe, PayPal, Square…
+		a. 
 	3. Webapp with session management using session cookies
 	4. Webapp with user management, SSO using keycloak/Shibboleth
 	5. Webapp with personalization
@@ -25,22 +28,26 @@ These project ideas can be used for
 
 	
 ### Sociopreneur
-	1. Buyer/Seller marketplace app (Web and/or mobile) for small farmers
-		a. Problem statement: small farmers lose money to middle men as the demand from end consumers do not reach them directly.
-		b. Solution:  Farmers feed their produce, location, selling price and selling time.  Buyers place their orders directly with the farmer and reserves the collection time slot, quantity and amount.  Buyer goes and picks up  the produce.
-	2. Jobs broadcaster via SMS in regional language
-		a. Problem statement:  Short term jobs (E.g., Domestic workers, plumbers, electricians, iron man) are in demand always.  But the need does not reach job seekers.
-		b. Solution:  Using the app, collect ad hoc job requirement details from job providers. Jobs information is to be sent as regional language SMS to job seekers. 
-	3. Avoid food waste in weddings
-		a. Problem statement: Food goes waste in many events such as marriages as indian cultural system does not follow RSVP.
-		b. Solution 1: Provide an RSVP app where all the event attendees can mark their interest by sending SMS with just "Ok # of participants" against an event name.
-		c. Solution 2: Marriage event  planners can up front register their event with number of people who'd come.  They can roughly post the number of people actually came and the amount of food available for any one to  pick up.	
-	4. Geo mapping with images for city cleaning
-		a. Problem statement: debris pile up in some places as civic bodies may ignore some areas.
-		b. Solution: upload images with date/time/location for civic bodies to clear
-	5. Geo mapping with images for disaster (such as flood, lock down) help
-		a. Problem statement: vulnerable set of people such as the aged, disabled, sick are not able to meet the basic necessities during unusual testing times.
-		b. Solution: upload images/living needs (sos calls) and make the pre-registered wardens initiate the help.
+#### Buyer/Seller marketplace app (Web and/or mobile) for small farmers
+##### Problem statement: small farmers lose money to middle men as the demand from end consumers do not reach them directly.
+##### Solution:  Farmers feed their produce, location, selling price and selling time.  Buyers place their orders directly with the farmer and reserves the collection time slot, quantity and amount.  Buyer goes and picks up  the produce.
+
+#### Jobs broadcaster via SMS in regional language
+##### Problem statement:  Short term jobs (E.g., Domestic workers, plumbers, electricians, iron man) are in demand always.  But the need does not reach job seekers.
+###### Solution:  Using the app, collect ad hoc job requirement details from job providers. Jobs information is to be sent as regional language SMS to job seekers. 
+
+#### Avoid food waste in weddings
+##### Problem statement: Food goes waste in many events such as marriages as indian cultural system does not follow RSVP.
+##### Solution 1: Provide an RSVP app where all the event attendees can mark their interest by sending SMS with just "Ok # of participants" against an event name.
+##### Solution 2: Marriage event  planners can up front register their event with number of people who'd come.  They can roughly post the number of people actually came and the amount of food available for any one to  pick up.	
+
+#### Geo mapping with images for city cleaning
+##### Problem statement: debris pile up in some places as civic bodies may ignore some areas.
+##### Solution: upload images with date/time/location for civic bodies to clear
+
+#### Geo mapping with images for disaster (such as flood, lock down) help
+##### Problem statement: vulnerable set of people such as the aged, disabled, sick are not able to meet the basic necessities during unusual testing times.
+##### Solution: upload images/living needs (sos calls) and make the pre-registered wardens initiate the help.
 	 
  
 ### Entertainment
