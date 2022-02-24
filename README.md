@@ -1,4 +1,13 @@
-- [madurai-it-club-projects](#madurai-it-club-projects)
+# madurai-it-club-projects
+Project ideas for learning app development, engineering projects and for business use
+
+These project ideas can be used for 
+- creating Engineering final year projects 
+- enriching one's coding skills 
+- adding features and build a business out of it
+
+Here is the index of the projects.
+
   * [Projects for Engineering degree / business use](#projects-for-engineering-degree---business-use)
     + [Sociopreneur](#sociopreneur)
       - [Buyer/Seller marketplace app (Web and/or mobile) for small farmers](#buyer-seller-marketplace-app--web-and-or-mobile--for-small-farmers)
@@ -39,13 +48,7 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-# madurai-it-club-projects
-Project ideas for learning app development, engineering projects and for business use
 
-These project ideas can be used for 
-- creating Engineering final year projects 
-- enriching one's coding skills 
-- adding features and build a business out of it
 
 
 ## Projects for Engineering degree / business use
