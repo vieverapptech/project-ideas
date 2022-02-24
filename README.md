@@ -10,8 +10,8 @@ These project ideas can be used for
 ### Web App
 
 #### CRUD app
-Solution: Create/Read/Delete/Update some entity such as "Student" in a database.  Provide frontend features such as "Create New Student", "Update Student with new Address", etc. Choose a tech stack.  Popular tech stacks for web applications are LAMP (Linux, Apache, MySQL, PHP or Pearl or Python|), MERN /MEAN / MEVN (MongoDB, Express JS, ReactJS / AngularJS/ VueJS, NodeJS),  Python-Django,  PHP-Laravel, Ruby on Rails.  
-What you learn: For any tech stack chosen, writing a CRUD app becomes framework for building other features.  CRUD app is a test to prove that one knows all the basic aspects of an application construction.
+<u>Solution:</u> Create/Read/Delete/Update some entity such as "Student" in a database.  Provide frontend features such as "Create New Student", "Update Student with new Address", etc. Choose a tech stack.  Popular tech stacks for web applications are LAMP (Linux, Apache, MySQL, PHP or Pearl or Python|), MERN /MEAN / MEVN (MongoDB, Express JS, ReactJS / AngularJS/ VueJS, NodeJS),  Python-Django,  PHP-Laravel, Ruby on Rails.  
+<u>What you learn:</u> For any tech stack chosen, writing a CRUD app becomes framework for building other features.  CRUD app is a test to prove that one knows all the basic aspects of an application construction.
 
 #### Webapp with payment integration using Stripe, PayPal, Square…
 	
