@@ -8,24 +8,25 @@ These project ideas can be used for
 
 ## Projects for learning purpose
 ### Web App
-	1. CRUD app
-		a. Solution: Create/Read/Delete/Update some entity such as "Student" in a database.  Provide frontend features such as "Create New Student", "Update Student with new Address", etc. Choose a tech stack.  Popular tech stacks for web applications are LAMP (Linux, Apache, MySQL, PHP or Pearl or Python|), MERN /MEAN / MEVN (MongoDB, Express JS, ReactJS / AngularJS/ VueJS, NodeJS),  Python-Django,  PHP-Laravel, Ruby on Rails.  
-		b. What you learn: For any tech stack chosen, writing a CRUD app becomes framework for building other features.  CRUD app is a test to prove that one knows all the basic aspects of an application construction.
-	2. Webapp with payment integration using Stripe, PayPal, Square…
-		a. 
-	3. Webapp with session management using session cookies
-	4. Webapp with user management, SSO using keycloak/Shibboleth
-	5. Webapp with personalization
-	6. e-commerce web app
+
+#### CRUD app
+Solution: Create/Read/Delete/Update some entity such as "Student" in a database.  Provide frontend features such as "Create New Student", "Update Student with new Address", etc. Choose a tech stack.  Popular tech stacks for web applications are LAMP (Linux, Apache, MySQL, PHP or Pearl or Python|), MERN /MEAN / MEVN (MongoDB, Express JS, ReactJS / AngularJS/ VueJS, NodeJS),  Python-Django,  PHP-Laravel, Ruby on Rails.  
+What you learn: For any tech stack chosen, writing a CRUD app becomes framework for building other features.  CRUD app is a test to prove that one knows all the basic aspects of an application construction.
+
+#### Webapp with payment integration using Stripe, PayPal, Square…
+	
+#### Webapp with session management using session cookies
+#### Webapp with user management, SSO using keycloak/Shibboleth
+#### Webapp with personalization
+#### e-commerce web app
 
 ### Cloud
-	1. Migrating on-prem e-commerce web app to cloud (Re-host aka lift-and-shift) with minimal downtime and no data loss.
-	2. Migrating on-prem e-commerce web app to cloud after rearchitecting/refactoring with minimal downtime and no data loss
-	3. Serverless e-commerce application
+#### Migrating on-prem e-commerce web app to cloud (Re-host aka lift-and-shift) with minimal downtime and no data loss.
+#### Migrating on-prem e-commerce web app to cloud after rearchitecting/refactoring with minimal downtime and no data loss
+#### Serverless e-commerce application
 	
 
 ## Projects with business use
-
 	
 ### Sociopreneur
 #### Buyer/Seller marketplace app (Web and/or mobile) for small farmers
