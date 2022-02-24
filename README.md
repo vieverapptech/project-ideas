@@ -7,7 +7,9 @@ These project ideas can be used for
 - adding features and build a business out of it
 
 
-	
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis) 
 
 ## Projects for Engineering degree / business use
 	
