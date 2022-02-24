@@ -96,9 +96,21 @@ Here is the index of the projects.
 
 ### Directory Apps
 #### Directory of children extra-curricular activies based on region, categories.
+<ins>Problem statement:</ins> 
+
+<ins>Solution:</ins>
+
 #### Directory of entertainment & sports events (play, concerts, sports events) near me.
+<ins>Problem statement:</ins> 
+
+<ins>Solution:</ins>
+
 #### Directory of college education disciplines and institutions and the job scopes.  
-Similar to [Glassdoor](https://www.glassdoor.co.in/member/home/index.htm), consolidate input from alumni on what they are doing.  Students can make use of this for their career choices.
+<ins>Problem statement:</ins> 
+
+<ins>Solution:</ins>Similar to [Glassdoor](https://www.glassdoor.co.in/member/home/index.htm), consolidate input from alumni on what they are doing.  Students can make use of this for their career choices.
+
+
 
 ### BlockChain
 #### Anonymous Voting
@@ -120,6 +132,9 @@ Similar to [Glassdoor](https://www.glassdoor.co.in/member/home/index.htm), conso
 <ins>Solution:</ins> Find duplicate copies and store the meta data for each copy, but keep only one image or video.  This will help to reduce the total storage needed.
 
 #### To Do app, daily journal app, goal setting app 
+<ins>Problem statement:</ins> 
+
+<ins>Solution:</ins>
 	
 ### Health
 #### Wearables
