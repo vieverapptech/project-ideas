@@ -196,3 +196,4 @@ Here is the index of the projects.
 #### Migrating on-prem e-commerce web app to cloud (Re-host aka lift-and-shift) with minimal downtime and no data loss.
 #### Migrating on-prem e-commerce web app to cloud after rearchitecting/refactoring with minimal downtime and no data loss
 #### Serverless e-commerce application
+#### Event driven e-commerce application
