@@ -45,6 +45,7 @@ Here is the index of the projects.
       - [Migrating on-prem e-commerce web app to cloud (Re-host aka lift-and-shift) with minimal downtime and no data loss.](#migrating-on-prem-e-commerce-web-app-to-cloud--re-host-aka-lift-and-shift--with-minimal-downtime-and-no-data-loss)
       - [Migrating on-prem e-commerce web app to cloud after rearchitecting/refactoring with minimal downtime and no data loss](#migrating-on-prem-e-commerce-web-app-to-cloud-after-rearchitecting-refactoring-with-minimal-downtime-and-no-data-loss)
       - [Serverless e-commerce application](#serverless-e-commerce-application)
+      - [Event driven e-commerce application](#event-driven-e-commerce-application)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -196,3 +197,4 @@ Here is the index of the projects.
 #### Migrating on-prem e-commerce web app to cloud (Re-host aka lift-and-shift) with minimal downtime and no data loss.
 #### Migrating on-prem e-commerce web app to cloud after rearchitecting/refactoring with minimal downtime and no data loss
 #### Serverless e-commerce application
+#### Event driven e-commerce application
