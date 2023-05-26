@@ -1,4 +1,4 @@
-# madurai-it-club-projects
+# Project Ideas
 
 
 These project ideas can be used for 
